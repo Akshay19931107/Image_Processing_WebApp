@@ -22,26 +22,8 @@ It provides a user-friendly interface built with **React** for the frontend and 
 ---
 
 ## 📁 Project Structure
-image_processing_app/
-│
-├── backend/                   # Flask API and application logic
-│   ├── model/                 # Pretrained models
-│   │   └── gen_model.pkl      # Pix2Pix model file
-│   ├── routes/                # API routes for tasks and authentication
-│   ├── utils/                 # Helper functions for processing
-│   ├── app.py                 # Main backend application
-│   └── requirements.txt       # Python dependencies
-│
-├── frontend/                  # React-based frontend
-│   ├── public/                # Static files (images, etc.)
-│   ├── src/                   # React components and pages
-│   └── package.json           # Frontend dependencies
-│
-├── docker-compose.yml         # Docker Compose configuration
-├── Dockerfile.backend         # Dockerfile for the backend
-├── Dockerfile.frontend        # Dockerfile for the frontend
-└── README.md                  # Project documentation
 
+![directory](https://github.com/user-attachments/assets/52fff4af-8b7d-4e71-bf40-9bc4b6f2d682)
 
 
 ## 🛠 Prerequisites
