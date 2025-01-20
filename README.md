@@ -1,5 +1,6 @@
 
 # Image Processing Web Application
+![1](https://github.com/user-attachments/assets/1e469372-0ebc-46e3-86ea-4bf899a1a8f1)
 
 ## 🚀 Overview
 This web application offers advanced image processing tasks including:
