@@ -54,10 +54,10 @@ image_processing_app/
 
 ## 🔧 Installation & Setup
 
-### 1. Clone the Repository
-```bash
+# 1. Clone the Repository
 git clone https://github.com/your-username/image_processing_app.git
 cd image_processing_app
+
 # 2. Setup Backend
 cd backend
 python -m venv venv
@@ -69,13 +69,14 @@ python app.py
 cd frontend
 npm install
 npm start
-🌐 Usage
+
+# 🌐 Usage
 Open the application at http://localhost:3000.
 Sign up or log in.
 Choose a processing task (Pix2Pix, Pan-Sharpening, Histogram Specification).
 Upload images and view the processed results.
 
-🐳 Docker Deployment
+# 🐳 Docker Deployment
 1. Build and Start Containers
 docker-compose build
 docker-compose up
@@ -83,7 +84,7 @@ docker-compose up
 Frontend: http://localhost:3000
 Backend API: http://localhost:5000
 
-📂 API Endpoints
+# 📂 API Endpoints
 Authentication
 POST /auth/signup - Create a new user.
 POST /auth/login - Log in and receive a JWT token.
@@ -100,7 +101,7 @@ Authentication: JWT
 Image Processing: OpenCV, TensorFlow, PyWavelets
 Deployment: Docker, Docker Compose
 
-📝 License
+# 📝 License
 This project is licensed under the MIT License. See the LICENSE file for details.
 
 
