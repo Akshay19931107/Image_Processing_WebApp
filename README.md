@@ -55,7 +55,7 @@ image_processing_app/
 ## 🔧 Installation & Setup
 
 ### 1. Clone the Repository
-git clone https://github.com/your-username/image_processing_app.git
+make git clone 
 cd image_processing_app
 
 ### 2. Setup Backend
